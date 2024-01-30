@@ -4,7 +4,7 @@ const botaoPlayPause = document.getElementById("play-pause");
 const botaoProximoCapitulo = document.getElementById("proximo");
 const botaoCapituloAnterior = document.getElementById("anterior");
 
-const quantidadeCapitulos = 10;
+const quantidadeCapitulos = 11;
 let taTocando = false;
 let capitulo = 1;
 
